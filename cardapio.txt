@@ -1,0 +1,72 @@
+101
+CachorroQuente
+2
+Pao
+1
+Salsicha
+1
+9,00
+102
+Sanduiche Natural
+4
+Pao de forma
+2
+alface
+1
+tomate
+2
+picles
+2
+12,00
+103
+Hamburguer de siri
+9
+Pao de hamburguer
+1
+Pate de siri
+1
+Picles
+2
+Alface
+1
+Queijo
+1
+Tomate
+2
+ketchup
+1
+mostarda
+1
+Cebola
+1
+27,00
+104
+Pao de queijo
+2
+Pao
+1
+Queijo
+1
+6,00
+105
+Batata Frita G (15)
+1
+Batata Frita
+15
+17,00
+106
+Batata Frita M (10)
+1
+Batata Frita
+10
+12,00
+107
+Picanha 500g
+3
+Picanha
+2
+cebola
+1
+PÆo de Alho
+2
+125,00
